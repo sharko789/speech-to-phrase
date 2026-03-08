@@ -40,8 +40,8 @@ data:
 
   # # lights (area)
   - "[alle|die] lichter (an|ein|aus)(schalten|machen) "
-  - "(schalte|mach[e]) [alle|die] lichter (an|ein|aus)"
-  - "(schalte|mach[e]) [alle|die] lichter in [der|dem] {area} (an|ein|aus)"
+  - "(schalt|mach)[e] [alle|die] lichter (an|ein|aus)"
+  - "(schalt|mach)[e] [alle|die] lichter in [der|dem] {area} (an|ein|aus)"
 
   - "stell[e] [die] helligkeit [hier] auf {brightness} prozent"
   - "stell[e] [die] helligkeit von [der|dem] {area} auf {brightness} prozent"
